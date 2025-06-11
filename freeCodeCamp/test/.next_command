@@ -81,3 +81,5 @@ ls --color=auto
 cd ..
 clear
 ls --color=auto
+more test
+more package.json
