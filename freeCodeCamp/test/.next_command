@@ -84,3 +84,4 @@ ls --color=auto
 more test
 more package.json
 clear
+ls --color=auto
