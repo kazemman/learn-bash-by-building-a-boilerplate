@@ -70,3 +70,5 @@ echo terminal
 echo hello termina
 echo hello terminal
 pwd
+clear
+ls --color=auto
