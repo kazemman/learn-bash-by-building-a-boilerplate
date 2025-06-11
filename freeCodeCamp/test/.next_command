@@ -69,3 +69,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo terminal
 echo hello termina
 echo hello terminal
+pwd
