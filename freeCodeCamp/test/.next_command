@@ -188,3 +188,4 @@ find website
 ls --color=auto
 find website
 find
+mv lato.ttf fonts
