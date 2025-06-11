@@ -216,3 +216,4 @@ cd assets/
 clear
 mkdir images
 cd images
+touch background.jpg
