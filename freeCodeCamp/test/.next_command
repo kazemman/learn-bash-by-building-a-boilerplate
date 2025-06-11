@@ -156,3 +156,4 @@ cp footer images
 clear
 ls --color=auto
 cp footer.jpeg images
+cd images
