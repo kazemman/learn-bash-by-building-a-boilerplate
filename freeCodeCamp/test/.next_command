@@ -209,3 +209,5 @@ find -name src
 find webite
 find website
 find
+ls --color=auto
+cd client/
