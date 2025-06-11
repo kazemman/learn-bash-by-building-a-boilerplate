@@ -213,3 +213,5 @@ ls --color=auto
 cd client/
 mkdir assets/
 cd assets/
+clear
+mkdir images
