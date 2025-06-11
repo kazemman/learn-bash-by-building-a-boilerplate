@@ -72,3 +72,4 @@ echo hello terminal
 pwd
 clear
 ls --color=auto
+cd freeCodeCamp
