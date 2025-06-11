@@ -199,3 +199,5 @@ mv index.js client/src
 mv styles.css client/src
 lfind
 find
+ls --color=auto client
+find client
