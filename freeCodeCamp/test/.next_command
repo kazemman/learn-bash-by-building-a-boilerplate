@@ -220,3 +220,4 @@ touch background.jpg
 ls --color=auto
 pwd
 cd ../../..
+cd/client/assets/images
