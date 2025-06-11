@@ -201,3 +201,4 @@ lfind
 find
 ls --color=auto client
 find client
+find --help
