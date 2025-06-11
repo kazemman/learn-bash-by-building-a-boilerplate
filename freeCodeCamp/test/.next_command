@@ -215,3 +215,4 @@ mkdir assets/
 cd assets/
 clear
 mkdir images
+cd images
