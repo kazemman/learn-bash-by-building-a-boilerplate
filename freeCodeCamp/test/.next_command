@@ -106,3 +106,4 @@ ls --color=auto
 more index.js
 pwd
 cd ..
+cd ..
