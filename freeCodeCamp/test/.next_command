@@ -90,3 +90,4 @@ rm gitgnore
 rm .gitgnore
 touch .gitignore
 ls --color=auto
+ls --color=auto --help
