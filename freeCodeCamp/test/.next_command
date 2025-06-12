@@ -77,3 +77,7 @@ ls --color=auto
 cd website
 ls --color=auto website
 echo hello website
+mkdir index.html
+rmdir index.html
+ls --color=auto
+touch index.html
