@@ -89,3 +89,4 @@ touch .gitgnore
 rm gitgnore
 rm .gitgnore
 touch .gitignore
+ls --color=auto
