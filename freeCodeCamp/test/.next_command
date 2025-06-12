@@ -266,3 +266,4 @@ ls --color=auto
 mv website.boilerplate website
 ls --color=auto
 mv website website-boilerplate
+ls --color=auto
