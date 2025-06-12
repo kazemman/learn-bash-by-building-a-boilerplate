@@ -189,3 +189,4 @@ rmdir website/images
 rm images/background.jpg
 rmdir images
 ls --color=auto
+mkdir client/assets/icons
