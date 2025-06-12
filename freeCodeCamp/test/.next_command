@@ -168,3 +168,4 @@ mv header.png websiite/
 pwd
 mv header.png project/website/
 mv header.png ..
+ls --color=auto
