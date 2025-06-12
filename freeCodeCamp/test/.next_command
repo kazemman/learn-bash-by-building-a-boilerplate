@@ -182,3 +182,8 @@ find -name footer.jpeg
 find -name images
 find
 rmdir images
+cd images/
+cd ..
+rm website/images
+rmdir website/images
+rm images/background.jpg
