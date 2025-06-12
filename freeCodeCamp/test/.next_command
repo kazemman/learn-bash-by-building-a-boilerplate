@@ -200,3 +200,4 @@ ls --color=auto
 cd ..
 ls --color=auto
 mv CodeAlly.svg client/assets/icons
+find
