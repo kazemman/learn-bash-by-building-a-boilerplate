@@ -272,3 +272,5 @@ cp --help
 cp -r website-boilerplate toms-website
 ls --color=auto
 find toms-website
+find -name wesite-boilerplate
+find website-boilerplate
