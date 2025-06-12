@@ -206,3 +206,27 @@ ls --color=auto
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+touch roboto-fold.woff client/assets/fonts
+cd client/assets/icons
+ls --color=auto
+cd ..
+ls --color=auto
+cd fonts/
+ls --color=auto
+cd ..
+ls --color=auto
+cd icons
+ls --color=auto
+find -name robot-fold.woff
+find -name roboto-fold.woff
+cd ..
+cd ..
+cd ..
+ls --color=auto
+touch roboto-fold.woff client/assets/fonts
+touch roboto-bold.woff client/assets/fonts
+ls --color=auto
+rm roboto-bold.woff
+rm roboto-fold.woff
+ls --color=auto
+touch client/assets/fonts/roboto-bold.woff
