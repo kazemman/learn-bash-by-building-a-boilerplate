@@ -187,3 +187,4 @@ cd ..
 rm website/images
 rmdir website/images
 rm images/background.jpg
+rmdir images
