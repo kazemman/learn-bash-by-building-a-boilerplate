@@ -241,3 +241,4 @@ __vsc_prompt_cmd_original
 rm --help
 ls --color=auto
 rm fonts -r
+ls --color=auto
