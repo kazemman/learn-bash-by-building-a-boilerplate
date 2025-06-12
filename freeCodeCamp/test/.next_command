@@ -231,3 +231,6 @@ rm roboto-fold.woff
 ls --color=auto
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find -name fonts
+find
+find client/assets/fonts
