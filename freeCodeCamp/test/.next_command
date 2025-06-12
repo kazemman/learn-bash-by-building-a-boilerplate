@@ -155,3 +155,4 @@ find -name src
 find
 cd clint/
 cd client/
+mkdir assets/
