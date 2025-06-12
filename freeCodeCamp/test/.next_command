@@ -83,3 +83,4 @@ ls --color=auto
 touch index.html
 clear
 touch styles.css
+ls --color=auto
