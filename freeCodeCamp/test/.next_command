@@ -81,3 +81,5 @@ mkdir index.html
 rmdir index.html
 ls --color=auto
 touch index.html
+clear
+touch styles.css
