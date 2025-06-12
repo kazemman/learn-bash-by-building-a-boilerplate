@@ -190,3 +190,13 @@ rm images/background.jpg
 rmdir images
 ls --color=auto
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/
+cd client/assets/
+ls --color=auto
+mv CodeAlly.svg ..
+cd ..
+mv CodeAlly.svg ..
+ls --color=auto
+cd ..
+ls --color=auto
+mv CodeAlly.svg client/assets/icons
