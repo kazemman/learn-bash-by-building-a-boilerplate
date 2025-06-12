@@ -275,3 +275,6 @@ find toms-website
 find -name wesite-boilerplate
 find website-boilerplate
 clear
+clear
+clear
+echo goodbye terminal
