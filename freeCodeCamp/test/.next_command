@@ -141,3 +141,5 @@ find
 mkdir client/
 mkdir client/src/
 mv index.html client/src/
+__vsc_prompt_cmd_original
+find
