@@ -55,3 +55,5 @@ ls --color=auto -l
 more has
 cd has
 ls --color=auto
+__vsc_prompt_cmd_original
+more README.md
