@@ -278,3 +278,4 @@ clear
 clear
 clear
 echo goodbye terminal
+exit
